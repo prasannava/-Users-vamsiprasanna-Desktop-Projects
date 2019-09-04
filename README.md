@@ -1,2 +1,2 @@
-# -Users-vamsiprasanna-Desktop-Projects
+MIxer-Clone project
 using html and css
